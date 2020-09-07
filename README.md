@@ -6,3 +6,6 @@ Game Of Life is a Generative Application where the cells of the grid(canvas) com
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 This project extensively uses DOM, JavaScript. HTML5 and CSS3 were used for canvas designing. 
+
+<br><b>Project Reference:</b></br>
+Udemy Course : https://www.udemy.com/course/build-the-game-of-life/
